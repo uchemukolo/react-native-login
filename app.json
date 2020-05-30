@@ -1,0 +1,17 @@
+{
+  "name": "pulseLogin",
+  "displayName": "pulseLogin",
+  "expo": {
+    "name": "pulseLogin",
+    "slug": "pulseLogin",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
